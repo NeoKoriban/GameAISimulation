@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\MGR\StrategicGame\ArtificalIntelligence\bin\Debug\ArtificalIntelligence.dll
+C:\Users\Denis\Desktop\MGR\StrategicGame\ArtificalIntelligence\bin\Debug\ArtificalIntelligence.pdb
+C:\Users\Denis\Desktop\MGR\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\MGR\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.dll
+C:\Users\Denis\Desktop\MGR\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.pdb
+C:\Users\Denis\Desktop\StrategicGame\ArtificalIntelligence\bin\Debug\ArtificalIntelligence.dll
+C:\Users\Denis\Desktop\StrategicGame\ArtificalIntelligence\bin\Debug\ArtificalIntelligence.pdb
+C:\Users\Denis\Desktop\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.dll
+C:\Users\Denis\Desktop\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\bin\Debug\ArtificalIntelligence.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\bin\Debug\ArtificalIntelligence.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.csprojResolveAssemblyReference.cache
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\obj\Debug\ArtificalIntelligence.pdb

@@ -1,0 +1,10 @@
+C:\Users\Denis\Desktop\MGR\StrategicGame\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\Denis\Desktop\MGR\StrategicGame\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\Denis\Desktop\MGR\StrategicGame\GameLogic\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\MGR\StrategicGame\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\Denis\Desktop\MGR\StrategicGame\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\GameLogic\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache

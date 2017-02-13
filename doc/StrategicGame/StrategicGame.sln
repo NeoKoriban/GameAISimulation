@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategicGame", "StrategicGame\StrategicGame.csproj", "{C0ACCB30-38AF-4B90-BB4B-70E6EBAC288D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A19BA47E-0E5C-4560-BE23-1E5E20E12ACD} = {A19BA47E-0E5C-4560-BE23-1E5E20E12ACD}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic\GameLogic.csproj", "{EAD1296D-3050-43F5-A70E-5C6BB5AB91C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionTree", "ArtificalIntelligence\DecisionTree.csproj", "{A19BA47E-0E5C-4560-BE23-1E5E20E12ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzyLogic", "FuzzyLogic\FuzzyLogic.csproj", "{228951E0-5DA5-46F9-8183-9C313DC06A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0ACCB30-38AF-4B90-BB4B-70E6EBAC288D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ACCB30-38AF-4B90-BB4B-70E6EBAC288D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ACCB30-38AF-4B90-BB4B-70E6EBAC288D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ACCB30-38AF-4B90-BB4B-70E6EBAC288D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD1296D-3050-43F5-A70E-5C6BB5AB91C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD1296D-3050-43F5-A70E-5C6BB5AB91C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD1296D-3050-43F5-A70E-5C6BB5AB91C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD1296D-3050-43F5-A70E-5C6BB5AB91C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19BA47E-0E5C-4560-BE23-1E5E20E12ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19BA47E-0E5C-4560-BE23-1E5E20E12ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19BA47E-0E5C-4560-BE23-1E5E20E12ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19BA47E-0E5C-4560-BE23-1E5E20E12ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228951E0-5DA5-46F9-8183-9C313DC06A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228951E0-5DA5-46F9-8183-9C313DC06A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228951E0-5DA5-46F9-8183-9C313DC06A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228951E0-5DA5-46F9-8183-9C313DC06A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

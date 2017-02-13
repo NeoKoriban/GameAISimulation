@@ -1,0 +1,17 @@
+@relation Fight
+@attribute soldier numeric
+@attribute tank numeric
+@attribute aircraft numeric
+@attribute soldierSurvive numeric
+@attribute tankSurvive numeric
+@attribute aircraftSurvive numeric
+@attribute fireSummary numeric
+@attribute ai {'Soldier', 'SoldierTank', 'TankAircraft', 'SoldierTankAircraft', }
+@data
+1,0,0,3,0,0,20,'Soldier',?
+1,0,0,0,3,0,26,'SoldierTank',?
+0,1,0,0,2,0,55,'SoldierTank',?
+1,1,0,0,0,3,67,'TankAircraft',?
+1,1,1,0,0,2,119,'TankAircraft',?
+1,1,1,0,0,1,164,'TankAircraft',?
+0,1,1,0,0,3,170,'SoldierTankAircraft',?

@@ -1,0 +1,44 @@
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\bin\Debug\StrategicGame.exe.config
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\bin\Debug\StrategicGame.exe
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\bin\Debug\StrategicGame.pdb
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\bin\Debug\GameLogic.dll
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\bin\Debug\GameLogic.pdb
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\obj\Debug\StrategicGame.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\obj\Debug\StrategicGame.Properties.Resources.resources
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\obj\Debug\StrategicGame.StrategicGame.resources
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\obj\Debug\StrategicGame.csproj.GenerateResource.Cache
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\obj\Debug\StrategicGame.exe
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\obj\Debug\StrategicGame.pdb
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\bin\Debug\ArtificalIntelligence.dll
+C:\Users\Denis\Desktop\MGR\StrategicGame\StrategicGame\bin\Debug\ArtificalIntelligence.pdb
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\bin\Debug\StrategicGame.exe.config
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\obj\Debug\StrategicGame.exe
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\obj\Debug\StrategicGame.pdb
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\bin\Debug\StrategicGame.exe
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\bin\Debug\StrategicGame.pdb
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\bin\Debug\ArtificalIntelligence.dll
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\bin\Debug\GameLogic.dll
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\bin\Debug\ArtificalIntelligence.pdb
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\bin\Debug\GameLogic.pdb
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\obj\Debug\StrategicGame.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\obj\Debug\StrategicGame.Properties.Resources.resources
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\obj\Debug\StrategicGame.StrategicGame.resources
+C:\Users\Denis\Desktop\StrategicGame\StrategicGame\obj\Debug\StrategicGame.csproj.GenerateResource.Cache
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\StrategicGame.exe.config
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\StrategicGame.exe
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\StrategicGame.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\DecisionTree.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\FuzzyLogic.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\GameLogic.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\DecisionTree.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\FuzzyLogic.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\bin\Debug\GameLogic.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\obj\Debug\StrategicGame.csprojResolveAssemblyReference.cache
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\obj\Debug\StrategicGame.Properties.Resources.resources
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\obj\Debug\StrategicGame.StrategicGame.resources
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\obj\Debug\StrategicGame.csproj.GenerateResource.Cache
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\obj\Debug\StrategicGame.exe
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\StrategicGame\obj\Debug\StrategicGame.pdb
+F:\Dodatek A\Środowisko badawcze\StrategicGame\StrategicGame\bin\Debug\StrategicGame.exe.config
+F:\Dodatek A\Środowisko badawcze\StrategicGame\StrategicGame\obj\Debug\StrategicGame.exe
+F:\Dodatek A\Środowisko badawcze\StrategicGame\StrategicGame\obj\Debug\StrategicGame.pdb

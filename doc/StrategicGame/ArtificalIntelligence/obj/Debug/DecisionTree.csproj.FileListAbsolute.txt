@@ -1,0 +1,5 @@
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\bin\Debug\DecisionTree.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\bin\Debug\DecisionTree.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\obj\Debug\DecisionTree.dll
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\obj\Debug\DecisionTree.pdb
+C:\Users\Denis\OneDrive\Magisterka\StrategicGame\ArtificalIntelligence\obj\Debug\DecisionTree.csprojResolveAssemblyReference.cache
